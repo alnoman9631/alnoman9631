@@ -12,7 +12,11 @@
 
 **CSE Student &nbsp;|&nbsp; Full-Stack Web Developer &nbsp;|&nbsp; Software Development Enthusiast**
 
-`Building` • `Learning` • `Growing`
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=1F6FEB&center=true&vCenter=true&width=700&height=50&lines=CSE+Student+at+Daffodil+International+University;Full-Stack+Web+Developer+in+the+making;Learning+React%2C+Next.js+%26+TypeScript;Building+%E2%80%A2+Learning+%E2%80%A2+Growing" alt="Typing animation" />
+
+<br>
+
+<img src="https://img.shields.io/badge/🎓%20Daffodil%20International%20University-0d1117?style=for-the-badge&labelColor=0d1117&color=1f6feb" alt="Daffodil International University" />
 
 </div>
 
@@ -20,7 +24,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a Computer Science and Engineering student from Dhaka, Bangladesh, learning programming and software development step by step. I started with the fundamentals of **C programming**, and from there I moved into web development.
+I'm a Computer Science and Engineering student at **Daffodil International University**, from Dhaka, Bangladesh. I'm learning programming and software development step by step. I started with the fundamentals of **C programming**, and from there I moved into web development.
 
 Today I work with **React** and **Next.js**, and I'm learning **TypeScript**. I also practice **databases and SQL** and keep improving my **Data Structures and Algorithms**. I learn best by building real projects, and I enjoy solving practical problems through software.
 
@@ -210,8 +214,6 @@ I want to build useful software that solves real-world problems.
 
 <div align="center">
 
-**Thanks for visiting my profile!**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=1F6FEB&center=true&vCenter=true&width=500&height=40&lines=Thanks+for+visiting+my+profile!;Build+%E2%80%A2+Learn+%E2%80%A2+Grow" alt="Footer typing animation" />
 
-`Build` • `Learn` • `Grow`
-
-</div># alnoman9631
+</div>
